@@ -5,7 +5,7 @@ Este sistema permite adicionar, listar, editar e excluir links úteis. Ele foi d
 
 ## Versões
 
-### Versão 0.1.0: Funcionalidades Básicas
+### Versão 1.0: Funcionalidades Básicas
 - **Descrição**: Implementação inicial do sistema com capacidade de adicionar e listar links úteis.
 - **Funcionalidades**:
   - Adicionar links com assunto e URL.
@@ -14,7 +14,7 @@ Este sistema permite adicionar, listar, editar e excluir links úteis. Ele foi d
 - **Meta**: Criar um sistema funcional que permita registrar e visualizar links úteis.
 - **Entrega esperada**: Sistema com menu funcional e persistência básica.
 
-### Versão 0.2.0: Adição de Funcionalidades CRUD
+### Versão 1.1: Adição de Funcionalidades CRUD
 - **Descrição**: Expansão do sistema para permitir edição e exclusão de links.
 - **Funcionalidades**:
   - Editar links cadastrados, alterando assunto ou URL.
@@ -23,7 +23,7 @@ Este sistema permite adicionar, listar, editar e excluir links úteis. Ele foi d
 - **Meta**: Garantir que o sistema seja totalmente CRUD (Create, Read, Update, Delete).
 - **Entrega esperada**: Sistema funcional com edição e exclusão de registros.
 
-### Versão 0.3.0: Melhorias em Usabilidade e Validações
+### Versão 1.2: Melhorias em Usabilidade e Validações
 - **Descrição**: Refinamento do sistema para torná-lo mais robusto e amigável ao usuário.
 - **Funcionalidades**:
   - Evitar duplicação de URLs ao adicionar novos links.
@@ -33,7 +33,7 @@ Este sistema permite adicionar, listar, editar e excluir links úteis. Ele foi d
 - **Meta**: Tornar o sistema mais confiável e fácil de usar.
 - **Entrega esperada**: Sistema com validações e melhor interface.
 
-### Versão 1.0.0: Funcionalidades Avançadas
+### Versão 1.3: Funcionalidades Avançadas
 - **Descrição**: Finalização do sistema com busca por palavras-chave e documentação completa.
 - **Funcionalidades**:
   - Buscar links por palavras-chave ou assunto.
