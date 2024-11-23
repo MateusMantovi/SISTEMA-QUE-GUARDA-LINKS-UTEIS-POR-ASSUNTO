@@ -1,7 +1,7 @@
 # Sistema Que Guarda Links Úteis por assunto
 
 ## Descrição
-Este sistema permite adicionar, listar, editar e excluir links úteis. Ele foi desenvolvido em versões, com cada versão expandindo funcionalidades e melhorando a experiência do usuário.
+Este sistema permite adicionar, listar, editar e excluir links úteis. Ele foi desenvolvido em versões, com cada versão expandindo funcionalidades.
 
 ## Versões
 
